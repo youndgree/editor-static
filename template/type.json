@@ -5,12 +5,6 @@
           "label": "简单模板1",
           "list":[
               {
-                  "label": "简单模板",
-                  "value": "1-1",
-                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.json",
-                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.png"
-              },
-              {
                   "label": "编辑器模板",
                   "value": "1-2",
                   "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.json",
